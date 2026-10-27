@@ -1,0 +1,17 @@
+[
+  {
+    "id": "3a3b2c1d-0000-0000-0000-000000000001",
+    "topic": "/subscriptions/00000000-0000-0000-0000-000000000000/resourceGroups/rg-training/providers/Microsoft.Storage/storageAccounts/unikat2blob",
+    "subject": "/blobServices/default/containers/uploads/blobs/test.txt",
+    "eventType": "Microsoft.Storage.BlobDeleted",
+    "eventTime": "2026-10-27T20:00:00.000Z",
+    "data": {
+      "api": "DeleteBlob",
+      "contentType": "text/plain",
+      "blobType": "BlockBlob",
+      "url": "https://unikat2blob.blob.core.windows.net/uploads/test.txt"
+    },
+    "dataVersion": "",
+    "metadataVersion": "1"
+  }
+]
